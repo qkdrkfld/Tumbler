@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="텀블러 공장">
+  <rect width="64" height="64" rx="14" fill="#e3f0e7" />
+  <path d="M18 17h28l-3 35H21z" fill="#39785a" />
+  <path d="M21 12h22v7H21z" fill="#19342d" />
+  <path d="M25 27h14v3H25zm0 8h14v3H25z" fill="#fff" />
+  <path d="M11 52h42v4H11z" fill="#d19b44" />
+</svg>
